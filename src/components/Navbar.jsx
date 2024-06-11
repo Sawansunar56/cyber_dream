@@ -4,6 +4,7 @@ function Navbar() {
     return (
         <nav>
             <div className="leftSide">
+                icon left
             </div>
             <div className="middleSide">
                 <ul>
