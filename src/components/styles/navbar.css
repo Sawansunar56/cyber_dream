@@ -1,0 +1,13 @@
+nav {
+    .middleSide {
+        
+    }
+
+    ul {
+        display: flex;
+    }
+
+    li {
+        padding-inline: 8px;
+    }
+}
